@@ -1,0 +1,57 @@
+{
+  "slug": "netto-s-caterers-kochi",
+  "name": "Netto's Caterers",
+  "shortName": "Netto's",
+  "descriptor": "Catering Services",
+  "address": "27Q7+CCR, Moolampilly, Ernakulam, Kochi, Keralam 682027",
+  "area": "Moolampilly",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682027",
+  "geo": {
+    "lat": 10.040204,
+    "lng": 76.2662655
+  },
+  "mapsLink": "https://maps.google.com/?cid=18316054734857432251",
+  "phone": "+91 99952 17164",
+  "whatsapp": "919995217164",
+  "hours": "Open 8 am – 8 pm · all days",
+  "opens": "08:00",
+  "closes": "20:00",
+  "rating": 4.7,
+  "reviewCount": 231,
+  "reviews": [
+    {
+      "name": "Manoj Kunnath",
+      "rating": 5,
+      "quote": "Had an amazing experience with Nettos Caterers. The food quality, taste, presentation, and overall service were absolutely outstanding. Every dish was prepared with great care and had authentic flavor, freshness, and excellent quality."
+    },
+    {
+      "name": "SALINI SASINDRAN",
+      "rating": 5,
+      "quote": "Excellent catering services and delicious food. Easily approachable manager, Mr Jackson, very supportive and humble. Great staff members and coordination. Thank you for making our event more special with your elegant catering arrangements. Highly recommended!!"
+    },
+    {
+      "name": "Beena Melbin",
+      "rating": 4,
+      "quote": "Beautiful set up. Tasty food & value for money. The service staff were also very humble. Made the event a grand success!"
+    },
+    {
+      "name": "Jiss George",
+      "rating": 5,
+      "quote": "Food was very delicious. Nettos is the best well managed and reliable catering service I have seen. Also updated to the new trends…"
+    },
+    {
+      "name": "Manoj Vasudevan Trutuff",
+      "rating": 5,
+      "quote": "We ordered food from Nettos Catering for our BNI Power Team (Architects) meeting — the food was amazing, and the service was excellent! Special thanks to the Nettos teams and Mr. Jackson for the great support and arrangements. Highly recommended!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://netto-s-caterers-kochi.vercel.app"
+}
